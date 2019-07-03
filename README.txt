@@ -1,0 +1,1 @@
+This is just a little project I'm making to warm back up on my coding. I'll be trying to incorporate python, html, and a bit of css. Do what you will, though I'll be extremely surprised if anyone sees this project, as this is mainly on GitHub for a site.
